@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, ***I'm webvuln***
+#### ***I code and hack for fun***
 
-<!--
-**webvuln/webvuln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 **I’m currently learning:** ***GO*** 
+- 🤝 **I’m looking to collaborate on:** ***Anything*** 
+- 💬 **How to reach me:** ***Twitter: @CautiousChannel or Instagram: @Cautious_Channel*** 
 
-Here are some ideas to get you started:
+- ✨ **My Goals:
+Make a exploit /
+Get better at programming /
+Expand my pentesting knowledge*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=webvuln&theme=great-gatsby)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=webvuln)  
