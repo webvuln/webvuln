@@ -1,7 +1,6 @@
 ### Hi there 👋, ***I'm webvuln***
 #### ***I code and hack for fun***
 
-- 📚 **I’m currently learning:** ***C*** 
 - 🤝 **I’m looking to collaborate on:** ***Anything*** 
 - 💬 **How to reach me:** ***Twitter: @CautiousChannel or Instagram: @Cautious_Channel*** 
 
